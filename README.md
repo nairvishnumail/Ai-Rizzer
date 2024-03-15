@@ -79,7 +79,7 @@ Got a knack for AI and a sense of humor? Join us in refining the art of AI seduc
 5. Open a Pull Request
 
 ### License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the APACHE License. See LICENSE for more information.
 
 ### Acknowledgments
 To all the chatbots out there, who graciously put up with our AI's playful antics.
